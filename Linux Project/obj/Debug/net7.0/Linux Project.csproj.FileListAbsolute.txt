@@ -1,0 +1,21 @@
+/mnt/c/Users/Tony Doko/Documents/KSU Classes Folders/OS CS3502/Project 1/Linux Project/obj/Debug/net7.0/Linux Project.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Tony Doko/Documents/KSU Classes Folders/OS CS3502/Project 1/Linux Project/obj/Debug/net7.0/Linux Project.AssemblyInfoInputs.cache
+/mnt/c/Users/Tony Doko/Documents/KSU Classes Folders/OS CS3502/Project 1/Linux Project/obj/Debug/net7.0/Linux Project.AssemblyInfo.cs
+/mnt/c/Users/Tony Doko/Documents/KSU Classes Folders/OS CS3502/Project 1/Linux Project/obj/Debug/net7.0/Linux Project.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Tony Doko/Documents/KSU Classes Folders/OS CS3502/Project 1/Linux Project/obj/Debug/net7.0/Linux Project.dll
+/mnt/c/Users/Tony Doko/Documents/KSU Classes Folders/OS CS3502/Project 1/Linux Project/obj/Debug/net7.0/refint/Linux Project.dll
+/mnt/c/Users/Tony Doko/Documents/KSU Classes Folders/OS CS3502/Project 1/Linux Project/obj/Debug/net7.0/Linux Project.pdb
+/home/ony_oko/os_project/Linux Project/bin/Debug/net7.0/Linux Project
+/home/ony_oko/os_project/Linux Project/bin/Debug/net7.0/Linux Project.deps.json
+/home/ony_oko/os_project/Linux Project/bin/Debug/net7.0/Linux Project.runtimeconfig.json
+/home/ony_oko/os_project/Linux Project/bin/Debug/net7.0/Linux Project.dll
+/home/ony_oko/os_project/Linux Project/bin/Debug/net7.0/Linux Project.pdb
+/home/ony_oko/os_project/Linux Project/obj/Debug/net7.0/Linux Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/ony_oko/os_project/Linux Project/obj/Debug/net7.0/Linux Project.AssemblyInfoInputs.cache
+/home/ony_oko/os_project/Linux Project/obj/Debug/net7.0/Linux Project.AssemblyInfo.cs
+/home/ony_oko/os_project/Linux Project/obj/Debug/net7.0/Linux Project.csproj.CoreCompileInputs.cache
+/home/ony_oko/os_project/Linux Project/obj/Debug/net7.0/Linux Project.dll
+/home/ony_oko/os_project/Linux Project/obj/Debug/net7.0/refint/Linux Project.dll
+/home/ony_oko/os_project/Linux Project/obj/Debug/net7.0/Linux Project.pdb
+/home/ony_oko/os_project/Linux Project/obj/Debug/net7.0/Linux Project.genruntimeconfig.cache
+/home/ony_oko/os_project/Linux Project/obj/Debug/net7.0/ref/Linux Project.dll
